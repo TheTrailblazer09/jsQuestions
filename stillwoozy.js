@@ -1,3 +1,5 @@
+// Find whether an array is a subset of another array.
+
 function isSubset(arr1, arr2){
   let found=true;
   arr2.forEach(x=> {
